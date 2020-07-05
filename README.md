@@ -1,4 +1,3 @@
 # mysite
 My personal website
-
-http://ppavan.github.io/
+https://github.com/ppavan/ppavan.github.io
